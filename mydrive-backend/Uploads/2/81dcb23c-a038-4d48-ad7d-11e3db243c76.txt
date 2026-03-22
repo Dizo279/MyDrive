@@ -1,0 +1,21 @@
+Animate ONLY the character inside the inner artwork frame of the card.
+
+The monster subtly moves: slow breathing motion in chest and shoulders, glowing energy pulsing around the body, faint lightning flickering along armor edges, slight aura movement and flowing shadows behind the figure.
+
+Everything outside the artwork frame must remain COMPLETELY STATIC:
+the card border, name text, stars, attributes, description box, ATK/DEF numbers, colors, layout, typography and framing must not change at all.
+
+No camera movement.
+No zoom.
+No cropping.
+No perspective shift.
+No style change.
+No redraw.
+No distortion.
+No added objects.
+
+Lock the outer card area perfectly still.
+
+Only animate the creature and background inside the illustration box.
+
+Cinematic subtle animation, loopable, smooth, high quality, 4K, stable frame-to-frame consistency.
