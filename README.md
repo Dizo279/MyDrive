@@ -63,9 +63,6 @@ D:\LTUDM\
 │       │   └── admin/        Admin Panel
 │       └── services/         HTTP Services
 │
-├── docker-compose.yml
-├── init.sql
-├── start-mydrive.bat
 └── README.md
 ```
 
@@ -103,9 +100,6 @@ cd D:\LTUDM\mydrive-frontend
 ng serve
 ```
 > Web chạy tại: `http://localhost:4200`
-
-### ⚡ Hoặc dùng script tự động
-Double click `start-mydrive.bat`
 
 ---
 
